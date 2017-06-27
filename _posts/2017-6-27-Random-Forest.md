@@ -2,9 +2,7 @@
 layout: post
 title:  Random forest based on C4.5 decision trees
 ---
-
-``` csharp
-
+{% highlight csharp %}
 //load data from a CSV file
 var data = DecisionTable.Load("german.data", FileFormat.CSV);
 
@@ -22,4 +20,4 @@ var result = Classifier.Default.Classify(forest, test);
 
 //Output the results
 Console.WriteLine(result);
-```
+{% endhighlight %}
