@@ -3,7 +3,6 @@ layout: post
 title: Boosting $$(\omega,\varepsilon)$$-decision reduct based classifier
 tags: 
 - reducts
-- boosting
 - samples
 - ensembles
 ---
