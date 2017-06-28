@@ -3,7 +3,6 @@ layout: post
 title:  10-fold cross validation of C4.5 decision tree
 tags:
 - cross-validation
-- c45
 - decision-trees
 ---
 {% highlight csharp %}

@@ -2,9 +2,7 @@
 layout: post
 title:  Random forest based on C4.5 decision trees
 tags: 
-- random-forest
 - samples
-- c45
 - ensembles
 ---
 {% highlight csharp %}
