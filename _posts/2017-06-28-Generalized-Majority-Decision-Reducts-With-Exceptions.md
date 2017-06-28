@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Compute Generalized Majority Decision Reducts with exceptions
+title: Compute Generalized Majority Decision Reducts with Exceptions
 tags: 
 - reducts
 - samples
 - generalized-decision
-- excelptions
+- exceptions
 ---
 
 {% highlight csharp %}

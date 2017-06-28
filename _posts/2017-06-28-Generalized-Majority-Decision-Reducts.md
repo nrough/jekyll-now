@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  Compute Generalized Majority Decision Reducts
-tags: reducts, samples, generalized-decision
+title: Compute Generalized Majority Decision Reducts
+tags: 
+- reducts
+- samples
+- generalized-decision
 ---
 
 {% highlight csharp %}
