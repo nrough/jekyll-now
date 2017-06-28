@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  Decision Table Discretization
-tags: samples, discretization
+tags: 
+- samples
+- discretization
 ---
 
 {% highlight csharp %}

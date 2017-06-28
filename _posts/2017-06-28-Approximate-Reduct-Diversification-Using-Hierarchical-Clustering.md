@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  $$(F, \varepsilon)$$-decision reduct ensemble using hierarchical clustering diversification
-tags: reducts, diversification, samples, ensembles
+tags: 
+- reducts
+- diversification
+- samples
+- ensembles
 ---
 
 {% highlight csharp %}

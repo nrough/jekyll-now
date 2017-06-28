@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  Generate $$(F,\varepsilon)$$-approximate decision reducts using reduct factory
-tags: reduct, approximation, samples, weights
+tags: 
+- reducts
+- samples
+- weights
 ---
 {% highlight csharp %}
 //load benchmark data

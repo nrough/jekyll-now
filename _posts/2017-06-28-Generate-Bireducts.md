@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  Generate bireducts using class hierarchy
-tags: reducts, bireducts, samples
+tags: 
+- reducts
+- bireducts
+- samples
 ---
 
 {% highlight csharp %}
