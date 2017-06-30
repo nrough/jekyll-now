@@ -6,7 +6,8 @@ $tagColour: lightblue;
     background: $colour;
     height: 30px; 
     vertical-align: middle;
-    text-align: center;   
+    text-align: center;
+    cursor: pointer; cursor: hand;
 }
 
 @mixin selected-button()
