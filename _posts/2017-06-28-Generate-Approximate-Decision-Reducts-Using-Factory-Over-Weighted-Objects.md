@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Generate $$(F,\varepsilon)$$-approximate decision reducts using reduct factory
+title:  Generate \( (F, \varepsilon) \\\)-approximate decision reducts using reduct factory
 tags: 
 - reducts
 - samples
