@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compute Generalized Majority Decision Reducts
+title: Compute Generalized Majority \( (m^{\varepsilon},\cap) \\\)-Reducts
 tags: 
 - reducts
 - samples
