@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Random forest based on C4.5 decision trees
-tags: 
-- samples
-- ensembles
+title: Random Forest Based on C4.5 Decision Trees
+tags:
+  - samples
+  - ensembles
+published: true
 ---
 {% highlight csharp %}
 //load data from a CSV file
