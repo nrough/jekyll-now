@@ -13,8 +13,10 @@ var data = Data.Benchmark.Factory.Golf();
 //set parameters for reduct factory
 var parm = new Args();
 parm.SetParameter(ReductFactoryOptions.DecisionTable, data);
-parm.SetParameter(ReductFactoryOptions.ReductType, ReductTypes.ApproximateDecisionReduct);
-parm.SetParameter(ReductFactoryOptions.FMeasure, (FMeasure) FMeasures.Majority);
+parm.SetParameter(ReductFactoryOptions.ReductType, 
+	ReductTypes.ApproximateDecisionReduct);
+parm.SetParameter(ReductFactoryOptions.FMeasure, 
+	(FMeasure) FMeasures.Majority);
 parm.SetParameter(ReductFactoryOptions.Epsilon, 0.05);
 
 //compute reducts
