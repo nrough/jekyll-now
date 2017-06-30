@@ -6,7 +6,7 @@ tags:
   - samples
 published: true
 ---
-{% highlight csharp %}
+{% highlight csharp linenos %}
 //load data
 var data = Data.Benchmark.Factory.Golf();
 
