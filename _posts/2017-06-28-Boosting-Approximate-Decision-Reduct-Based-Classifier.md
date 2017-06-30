@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Boosting \( (\omega,\varepsilon) \\\)-decision reduct based classifier
-tags: 
-- reducts
-- samples
-- ensembles
+title: 'Boosting \( (\omega,\varepsilon) \\\)-Decision Reduct Based Weak Classifiers'
+tags:
+  - reducts
+  - samples
+  - ensembles
+published: true
 ---
 
 {% highlight csharp %}
