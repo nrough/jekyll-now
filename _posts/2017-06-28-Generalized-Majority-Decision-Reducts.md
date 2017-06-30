@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Compute Generalized Majority \( (m^{\varepsilon},\cap) \\\)-Reducts
-tags: 
-- reducts
-- samples
-- generalized-decision
+title: 'Compute Generalized Majority \( (m^{\varepsilon},\cap) \\\)-Reducts'
+tags:
+  - reducts
+  - samples
+  - generalized-decision
+published: true
 ---
 
-{% highlight csharp %}
+{% highlight csharp linenos %}
 //load training data set
 var train = Data.Benchmark.Factory.Dna();
 
