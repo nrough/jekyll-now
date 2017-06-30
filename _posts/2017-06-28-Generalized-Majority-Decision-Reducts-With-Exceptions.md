@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compute Generalized Majority \( (m^{\varepsilon},\cap) \\\) Reducts with Exceptions
+title: Compute Generalized Majority \( (m^{\varepsilon},\cap) \\\)-Reducts with Exceptions
 tags: 
 - reducts
 - samples
