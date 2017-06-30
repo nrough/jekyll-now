@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  10-fold cross validation of C4.5 decision tree
+title: 10-Fold Coss Validation of C4.5 Decision Tree
 tags:
-- cross-validation
-- decision-trees
+  - cross-validation
+  - decision-trees
+published: true
 ---
 {% highlight csharp linenos %}
 //load data
