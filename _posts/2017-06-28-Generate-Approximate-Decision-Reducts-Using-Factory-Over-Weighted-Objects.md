@@ -9,7 +9,7 @@ tags:
   - weights
 published: true
 ---
-{% highlight csharp %}
+{% highlight csharp linenos %}
 //load benchmark data
 var data = Data.Benchmark.Factory.Zoo();
 
