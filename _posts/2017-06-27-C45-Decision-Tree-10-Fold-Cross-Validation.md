@@ -5,7 +5,7 @@ tags:
 - cross-validation
 - decision-trees
 ---
-{% highlight csharp %}
+{% highlight csharp linenos %}
 //load data
 var data = DecisionTable.Load("data.txt", FileFormat.CSV);
 
