@@ -24,6 +24,7 @@ body {
 }
 
 .container {
+  max-width: $content-width;
   margin: 0 auto;  
   padding: 0 10px;
   width: 100%;
