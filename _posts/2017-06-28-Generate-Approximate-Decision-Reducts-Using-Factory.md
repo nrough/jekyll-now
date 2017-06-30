@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Generate \( (F, \varepsilon) \\\)-approximate decision reducts using reduct factory
-tags: 
-- reducts
-- samples
+title: 'Generate \( (F, \varepsilon) \\\)-Approximate Decision Reducts'
+tags:
+  - reducts
+  - samples
+published: true
 ---
 {% highlight csharp %}
 //load data
