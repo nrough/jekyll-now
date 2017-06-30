@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boosting \\\( (\omega,\varepsilon) \\\)-decision reduct based classifier
+title: Boosting \( (\omega,\varepsilon) \\\)-decision reduct based classifier
 tags: 
 - reducts
 - samples
