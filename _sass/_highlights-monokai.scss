@@ -38,12 +38,12 @@ code {
 .highlight {
   pre.lineno {
     border: none;
-    @include opacity(0.6);  
+    @include opacity(0.6); 
+    color: #272822;
   }
 
   .lineno {
     @include unselectable();
-    color: #272822;
   }
 
   .gutter {
