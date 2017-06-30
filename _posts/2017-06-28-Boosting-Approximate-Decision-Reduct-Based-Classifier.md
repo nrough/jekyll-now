@@ -8,7 +8,7 @@ tags:
 published: true
 ---
 
-{% highlight csharp %}
+{% highlight csharp linenos %}
 //load training and testing DNA (spieces) data sets
 var train = Data.Benchmark.Factory.Dna();
 var test = Data.Benchmark.Factory.DnaTest();
