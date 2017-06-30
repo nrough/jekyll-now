@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  Decision Table Discretization
-tags: 
-- samples
-- discretization
+title: Decision Table Discretization
+tags:
+  - samples
+  - discretization
+published: true
 ---
 
-{% highlight csharp %}
+{% highlight csharp linenos %}
 var data = Data.Benchmark.Factory.Vehicle();
 
 DecisionTable train, test;
