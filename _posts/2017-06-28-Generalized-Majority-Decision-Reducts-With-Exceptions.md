@@ -1,14 +1,17 @@
 ---
 layout: post
-title: Compute Generalized Majority \( (m^{\varepsilon},\cap) \\\)-Reducts with Exceptions
-tags: 
-- reducts
-- samples
-- generalized-decision
-- exceptions
+title: >-
+  Compute Generalized Majority \( (m^{\varepsilon},\cap) \\\)-Reducts with
+  Exceptions
+tags:
+  - reducts
+  - samples
+  - generalized-decision
+  - exceptions
+published: true
 ---
 
-{% highlight csharp %}
+{% highlight csharp linenos %}
 //load training and test data sets
 var train = Data.Benchmark.Factory.Dna();
 var test = Data.Benchmark.Factory.DnaTest();
