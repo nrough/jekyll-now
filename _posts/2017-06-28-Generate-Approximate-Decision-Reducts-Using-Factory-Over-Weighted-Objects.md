@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Generate \( (F, \varepsilon) \\\)-approximate decision reducts using reduct factory
+title: Generate \( (\omega,\varepsilon) \\\)-reducts over universe of weighted objects
 tags: 
 - reducts
 - samples
