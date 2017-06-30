@@ -6,7 +6,7 @@ tags:
   - ensembles
 published: true
 ---
-{% highlight csharp %}
+{% highlight csharp linenos %}
 //load data from a CSV file
 var data = DecisionTable.Load("german.data", FileFormat.CSV);
 
