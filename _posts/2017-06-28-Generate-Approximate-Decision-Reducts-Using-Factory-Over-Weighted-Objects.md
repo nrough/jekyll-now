@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Generate \( (\omega,\varepsilon) \\\)-reducts over universe of weighted objects
-tags: 
-- reducts
-- samples
-- weights
+title: >-
+  Generate \( (\omega,\varepsilon) \\\)-Reducts Over Universe of Weighted
+  Objects
+tags:
+  - reducts
+  - samples
+  - weights
+published: true
 ---
 {% highlight csharp %}
 //load benchmark data
