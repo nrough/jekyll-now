@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Generate \( (F, \varepsilon) \\\)-Approximate Decision Reducts'
+title: 'Generate \( \smash(F, \varepsilon) \\\)-Approximate Decision Reducts'
 tags:
   - reducts
   - samples
